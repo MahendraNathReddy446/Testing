@@ -1,1 +1,1 @@
-# Testing Codemagic.yml to know the work flow in CodeMagic
+# Testing Codemagic.yaml to know the work flow in CodeMagic
